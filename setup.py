@@ -31,7 +31,7 @@ if __name__ == "__main__":
           platform = "Any",
           maintainer= "Nicolas P. Rougier",
           maintainer_email="Nicolas.Rougier@inria.fr",
-          install_requires=['numpy', 'triangle', 'cython'],
+          install_requires=['numpy', 'cython'],
           classifiers=[
               "Development Status :: 5 - Production/Stable",
               "Operating System :: MacOS :: MacOS X",
